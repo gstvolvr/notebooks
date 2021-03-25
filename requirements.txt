@@ -87,7 +87,7 @@ pyrsistent==0.15.1
 python-dateutil==2.8.0
 pyts==0.8.0
 pytz==2019.1
-PyYAML==5.1.1
+PyYAML==5.4
 pyzmq==18.0.1
 qtconsole==4.4.3
 requests==2.22.0
